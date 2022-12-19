@@ -1,7 +1,7 @@
 My name is Asiye Yaghubi
 ===============================
 
-Developer & Teacher
+Back End Developer
 -----------------------------
 
 *   🖥️  See my portfolio at [asiye.yaghubi.ir](https://asiye.yaghubi.ir)
