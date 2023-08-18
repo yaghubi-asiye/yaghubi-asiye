@@ -13,20 +13,6 @@ Back End Developer
                 /></a><a href="https://www.github.com/yaghubi-asiye" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/yaghubi-asiye?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
-### Skills
-<p align="left">
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://www.php.net/images/logos/php-logo.svg" width="36" height="36" alt="PHP" /></a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://laravel.com/img/logomark.min.svg" width="36" height="36" alt="Laravel" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4"  width="36" height="36" alt="NodeJs" /></a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://expressjs.com/images/favicon.png" width="36" height="36" alt="ExpressJs" /></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="36" height="36" alt="MySql" /></a>
-    <a href="https://www.mongodb.com/home/" target="_blank" rel="noreferrer"><img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="36" height="36" alt="MongoDb" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-</p>
                     
 ### Socials
                   
